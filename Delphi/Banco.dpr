@@ -8,7 +8,9 @@ uses
   model.Diretor in 'model\model.Diretor.pas',
   model.Engenheiro in 'model\model.Engenheiro.pas',
   model.Gerente in 'model\model.Gerente.pas',
-  model.Secretario in 'model\model.Secretario.pas';
+  model.Secretario in 'model\model.Secretario.pas',
+  model.Conexao.Firedac in 'model\model.Conexao.Firedac.pas',
+  model.Conexao.Interfaces in 'model\model.Conexao.Interfaces.pas';
 
 {$R *.res}
 

@@ -1,7 +1,11 @@
 #ignorar extensoes
+libmysql.dll
 *.bat
 *.res
 *.stat
+*.exe
+*.local
+*.identcache
 
 #ignorar diretorios
 Win32
