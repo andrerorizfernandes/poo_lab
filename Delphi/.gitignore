@@ -1,0 +1,10 @@
+#ignorar extensoes
+*.bat
+*.res
+*.stat
+
+#ignorar diretorios
+Win32
+Win64
+__history
+__recovery

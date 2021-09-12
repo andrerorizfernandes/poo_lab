@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/30 18:29:23.000.805,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/17 20:46:44.000.781,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:13:26.438,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:15:43.105,D:\Meus_Projetos\poo_lab\Delphi\view\view.Principal.dfm=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/09/12 14:15:43.105,D:\Meus_Projetos\poo_lab\Delphi\view\view.Principal.pas=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:15:51.393,D:\Meus_Projetos\poo_lab\Delphi\Banco.dproj=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/09/12 14:16:43.320,=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:17:16.955,D:\Meus_Projetos\poo_lab\Delphi\model\model.Funcionario.pas=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:27:06.621,=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:27:30.672,D:\Meus_Projetos\poo_lab\Delphi\model\model.Cliente.pas=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:33:39.963,=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:34:04.361,D:\Meus_Projetos\poo_lab\Delphi\model\model.Diretor.pas=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:45:08.145,=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:45:26.495,D:\Meus_Projetos\poo_lab\Delphi\model\model.Engenheiro.pas=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:50:59.747,=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:51:15.000,D:\Meus_Projetos\poo_lab\Delphi\model\model.Gerente.pas=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:57:16.887,=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 14:57:42.928,D:\Meus_Projetos\poo_lab\Delphi\model\model.Secretario.pas=D:\Meus_Projetos\poo_lab\Delphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
